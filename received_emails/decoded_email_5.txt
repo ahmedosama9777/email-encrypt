@@ -1,0 +1,6 @@
+Dear Prof. Shaheen,
+
+This is an email that shall be encrypted and sent using Gmail API. 
+
+Best regards, 
+Ahmed Mohamed
