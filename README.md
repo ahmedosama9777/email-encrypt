@@ -1,3 +1,5 @@
+The detailed description of the project implmentation can be found in "1_Ahmed_Osama_report.pdf". Below are the requirements...
+
 Nowadays, sending secure e-mails has a primary concern due to the extensive usage of e-mails, so  they must be sent in a secure way. Sending e-mails requires achieving both confidentiality and  authentication since you do not want your inbox messages to be read by other people (confidentiality), and you want to verify the sender’s e-mail address for any e-mail you got  (authentication).  
 There are currently two actively proposed methods for providing these security services Secure/Multipurpose Internet Mail Extension (S/MIME) and Pretty Good Privacy (PGP). 
 You are required to develop an application that sends and receives secure encrypted e-mails using  PGP protocol. 
